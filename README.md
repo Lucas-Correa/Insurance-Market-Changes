@@ -1,7 +1,10 @@
 ## 3 thing that Covid changed in the Brazilian insurance market
 
 ### 1. Installations
-  For this analysis I used anaconda distribution and the downloaded files of SUSEP (http://www2.susep.gov.br/menuestatistica/SES/principal.aspx).
+  For this analysis I a used anaconda distribution and the downloaded files of SUSEP (http://www2.susep.gov.br/menuestatistica/SES/principal.aspx).
+  To download the files, click in the link, scroll the page until you find the download link like in the image below:
+ ![alt text](https://github.com/Lucas-Correa/Insurance-Market-Changes/blob/[branch]/HOW-DOWNLOAD.jpg?raw=true)
+
   
 ### 2. Motivation
   This analyze is motivated by my Udacity nanodegree of Data Scientist. The theme for the project was based in my field of work which is life insurance.
