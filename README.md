@@ -1,4 +1,4 @@
-## 3 thing that Covid changed in the Brazilian insurance market
+## Why the insurance was not affected by Covid
 
 ### 1. Installations
   For this analysis I a used anaconda distribution and the downloaded files of SUSEP (http://www2.susep.gov.br/menuestatistica/SES/principal.aspx).
